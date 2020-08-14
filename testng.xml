@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Punith.Keshav/Documents/ISO work/Anglo/Test Automation/Cucumber/Automation_V4_Anglo/Automation_V4_Anglo/src/test/java/Execution_Scripts/Runner_Class_TBD.java">
+        <classes/>
+    </test>
+</suite>
